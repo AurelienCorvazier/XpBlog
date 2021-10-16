@@ -1,0 +1,13 @@
+﻿<span>@Model.Date_Auteur</span>
+
+@foreach (var chapitre in @Model.Chapitres)
+{
+    <div>@chapitre.Html</div>
+}
+
+<div style="margin-top: 10px;margin-right: 10px;">
+    @foreach (var tag in @Model.Tags)
+    {
+        @tag.Html
+    }
+</div>

@@ -1,0 +1,9 @@
+﻿C:\Travail\Programmation\Mercurial\XpBlog\XpBlog\AC\Articles\Article_1.cs
+C:\Travail\Programmation\Mercurial\XpBlog\XpBlog\AC\Articles\Article_2.cs
+C:\Travail\Programmation\Mercurial\XpBlog\XpBlog\AC\Articles\Article_3\Article_3.cs
+C:\Travail\Programmation\Mercurial\XpBlog\XpBlog\AC\Articles\Article_4.cs
+C:\Travail\Programmation\Mercurial\XpBlog\XpBlog\AC\MonBlog.cs
+C:\Travail\Programmation\Mercurial\XpBlog\XpBlog\Program.cs
+C:\Travail\Programmation\Mercurial\XpBlog\XpBlog\Pubish_SFTP.cs
+C:\Travail\Programmation\Mercurial\XpBlog\XpBlog\AC\Articles\Article_3\Exemple_1.txt
+C:\Travail\Programmation\Mercurial\XpBlog\XpBlog\Graph1.dgml

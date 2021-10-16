@@ -1,0 +1,6 @@
+﻿using System.Collections.Generic;
+using System.Linq;
+
+var identifiants_uniques = new List<int> { 0, 1, 2, 3, 3 }; // bad datas
+identifiants_uniques.FirstOrDefault(e => e == 3); // no exception
+identifiants_uniques.SingleOrDefault(e => e == 3); // exception raised

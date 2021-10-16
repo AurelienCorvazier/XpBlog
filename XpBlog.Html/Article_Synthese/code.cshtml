@@ -1,0 +1,20 @@
+﻿@namespace XpBlog.Domain
+
+<div onclick="location.href ='@Model.Lien.LienAbsolu';" 
+     style="background: white;cursor: pointer;border: 1px solid black;padding:15px;margin:15px;">
+
+     <span>@Model.Date_Auteur</span>
+     <h1>@Model.Titre</h1>
+    @foreach (var chapitre in @Model.Chapitres.Take(1))
+    {
+        <div>@chapitre.Html</div>
+    }
+
+    
+    <div style="margin-top: 10px;margin-right: 10px;">
+    @foreach (var tag in @Model.Tags)
+    {
+        @tag.Html
+    }    </div>
+
+</div>

@@ -1,0 +1,8 @@
+﻿C:\Travail\Programmation\Mercurial\XpBlog\XpBlog.Domain\Article.cs
+C:\Travail\Programmation\Mercurial\XpBlog\XpBlog.Domain\Blog.cs
+C:\Travail\Programmation\Mercurial\XpBlog\XpBlog.Domain\Chapitre.cs
+C:\Travail\Programmation\Mercurial\XpBlog\XpBlog.Domain\Code.cs
+C:\Travail\Programmation\Mercurial\XpBlog\XpBlog.Domain\Lien.cs
+C:\Travail\Programmation\Mercurial\XpBlog\XpBlog.Domain\Paragraphe.cs
+C:\Travail\Programmation\Mercurial\XpBlog\XpBlog.Domain\Tag.cs
+C:\Travail\Programmation\Mercurial\XpBlog\XpBlog.Domain\Texte.cs
